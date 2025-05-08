@@ -1,7 +1,7 @@
-# DeepCore - Web3 Intelligent Agent Platform
+# Nuvex AI - Web3 Intelligent Agent Platform
 
 <p align="center">
-  <img src="http://deepcore.top/deepcore.png" alt="DeepCore Logo" width="200"/>
+  <img src="http://Nuvex AI.top/Nuvex AI.png" alt="Nuvex AI Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## Features
 
-DeepCore provides a series of powerful features that enable developers to easily create and deploy intelligent agents:
+Nuvex AI provides a series of powerful features that enable developers to easily create and deploy intelligent agents:
 
 - **Multi-model Support** - Seamless integration with various AI models, including GPT-4, Claude, local models, etc.
 - **Web3 Native Tools** - Rich blockchain interaction tools supporting smart contract calls and on-chain data analysis
@@ -32,25 +32,25 @@ DeepCore provides a series of powerful features that enable developers to easily
 
 ## Introduction
 
-DeepCore is a revolutionary platform, an AI agent system designed specifically for Web3 applications. Our platform combines advanced AI technology with blockchain integration to provide developers with a seamless and powerful experience, enabling them to create, deploy, and manage intelligent agents that can interact with decentralized applications and blockchain networks.
+Nuvex AI is a revolutionary platform, an AI agent system designed specifically for Web3 applications. Our platform combines advanced AI technology with blockchain integration to provide developers with a seamless and powerful experience, enabling them to create, deploy, and manage intelligent agents that can interact with decentralized applications and blockchain networks.
 
-DeepCore's architecture is built on three core principles:
+Nuvex AIs architecture is built on three core principles:
 
 1. **Decentralization** - Agents operate in a trustless environment, with data and execution controlled by the user
 2. **Extensibility** - Modular design allows for easy integration with any Web3 protocol or traditional API
 3. **Intelligence** - Leveraging state-of-the-art AI models to provide context-aware and adaptive agent behaviors
 
-DeepCore's advantage over other solutions lies in providing a complete solution for building, deploying, and commercializing intelligent agents in the Web3 ecosystem, with outstanding performance and seamless blockchain integration.
+Nuvex AI advantage over other solutions lies in providing a complete solution for building, deploying, and commercializing intelligent agents in the Web3 ecosystem, with outstanding performance and seamless blockchain integration.
 
 ## Technical Architecture
 
-DeepCore is built on the innovative MCP (Model-Context-Protocol) architecture, a design pattern that enables us to build highly flexible and powerful intelligent agent systems.
+Nuvex AI is built on the innovative MCP (Model-Context-Protocol) architecture, a design pattern that enables us to build highly flexible and powerful intelligent agent systems.
 
 <p>
-  <img src="./docs/deepcore_architecture.jpg" alt="DeepCore Architecture" width="800"/>
+  <img src="./docs/Nuvex AI_architecture.jpg" alt="Nuvex AI Architecture" width="800"/>
 </p>
 
-DeepCore's architecture consists of three main layers:
+Nuvex AI architecture consists of three main layers:
 
 ### 1. Web3 Agent Store Layer
 
@@ -61,7 +61,7 @@ The top layer provides a marketplace of specialized agents for different purpose
 - **DeepResearch Agent** - For in-depth research and knowledge discovery
 - **Additional specialized agents** - Extensible for various domain-specific tasks
 
-### 2. DeepCore Agent Protocol Layer
+### 2. Nuvex AI Agent Protocol Layer
 
 The core protocol layer is where the main agent intelligence and orchestration happens:
 
@@ -100,7 +100,7 @@ The bottom layer provides blockchain and data infrastructure:
 
 #### Agent System
 
-DeepCore's agent system consists of the following main components:
+Nuvex AI agent system consists of the following main components:
 
 - **Agent Core** - Core agent logic implementation, managing reasoning processes and tool invocation
 - **Memory System** - Short-term and long-term memory management, supporting context awareness and historical queries
@@ -110,7 +110,7 @@ DeepCore's agent system consists of the following main components:
 
 #### Tool Integration
 
-DeepCore supports multiple tool types:
+Nuvex AI supports multiple tool types:
 
 - **OpenAPI Tools** - Automatically integrate RESTful APIs through OpenAPI specifications
 - **Blockchain Tools** - Specialized tools for interacting with various blockchain networks
@@ -119,7 +119,7 @@ DeepCore supports multiple tool types:
 
 #### Security Mechanisms
 
-DeepCore implements multi-layered security mechanisms:
+Nuvex AI implements multi-layered security mechanisms:
 
 - **Permission Control** - Fine-grained API access permission management
 - **Resource Limits** - Monitoring and limiting agent resource usage
@@ -140,8 +140,8 @@ DeepCore implements multi-layered security mechanisms:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/0xdevpro/deepcore.git
-cd deepcore
+git clone https://github.com/0xdevpro/Nuvex AI.git
+cd Nuvex AI
 ```
 
 2. Install dependencies:
@@ -163,7 +163,7 @@ HOST=localhost
 PORT=8000
 DEBUG=true
 JWT_SECRET=your_jwt_secret
-DATABASE_URL=postgresql://user:password@localhost:5432/deepcore
+DATABASE_URL=postgresql://user:password@localhost:5432/Nuvex AI
 ```
 
 5. Start the development server:
@@ -175,7 +175,7 @@ poetry run python api.py
 ## Project Structure
 
 ```
-deepcore/
+Nuvex AI/
 ├── agents/               # Core agent implementation
 │   ├── agent/            # Agent core logic
 │   │   ├── mcp/          # MCP implementation
@@ -193,13 +193,13 @@ deepcore/
 └── README.md             # Project documentation
 ```
 
-## DeepCore API
+## Nuvex AI API
 
-DeepCore provides a comprehensive RESTful API that enables developers to interact seamlessly with our intelligent agent platform. Designed specifically for the Web3 ecosystem, the API supports functionalities such as agent management, tool integration, and secure blockchain-based communications.
+Nuvex AI provides a comprehensive RESTful API that enables developers to interact seamlessly with our intelligent agent platform. Designed specifically for the Web3 ecosystem, the API supports functionalities such as agent management, tool integration, and secure blockchain-based communications.
 
 ### API Overview
 
-The DeepCore API includes the following core modules:
+The Nuvex AI API includes the following core modules:
 
 - **Authentication Module** - JWT and Web3 wallet authentication interfaces
 - **Agent Management Module** - Create, update, delete, and query agents
@@ -213,7 +213,7 @@ All APIs follow RESTful design principles, support JSON format data exchange, an
 
 ### Agent Endpoints
 
-DeepCore API supports complete agent management, including endpoints for creating, listing, updating, and deleting agents.
+Nuvex AI API supports complete agent management, including endpoints for creating, listing, updating, and deleting agents.
 
 #### Create Agent
 
@@ -289,7 +289,7 @@ DeepCore API supports complete agent management, including endpoints for creatin
 
 ### Authentication
 
-DeepCore supports multiple robust authentication mechanisms to ensure secure access:
+Nuvex AI supports multiple robust authentication mechanisms to ensure secure access:
 
 #### JWT Authentication
 
@@ -322,7 +322,7 @@ DeepCore supports multiple robust authentication mechanisms to ensure secure acc
 // Response
 {
     "nonce": "123456",
-    "message": "Sign this message with your wallet to authenticate with DeepCore."
+    "message": "Sign this message with your wallet to authenticate with Nuvex AI."
 }
 ```
 
@@ -441,7 +441,7 @@ Add and manage AI models that power intelligent agents:
 
 ### Error Handling and Rate Limiting
 
-DeepCore API provides a consistent error response format:
+Nuvex AI API provides a consistent error response format:
 
 ```json
 {
@@ -461,7 +461,7 @@ All responses include rate limit headers:
 
 ## Pre-built Tool Set
 
-DeepCore provides a series of pre-built tools that can be immediately integrated with your agents:
+Nuvex AI provides a series of pre-built tools that can be immediately integrated with your agents:
 
 ### Blockchain Tools
 
@@ -495,25 +495,25 @@ DeepCore provides a series of pre-built tools that can be immediately integrated
 1. Build the image:
 
 ```bash
-docker build -t deepcore .
+docker build -t Nuvex AI .
 ```
 
 2. Run the container:
 
 ```bash
 docker run -p 8000:8000 \
-    -e DATABASE_URL=postgresql://user:password@host:5432/deepcore \
+    -e DATABASE_URL=postgresql://user:password@host:5432/Nuvex AI \
     -e JWT_SECRET=your_secret \
-    deepcore
+    Nuvex AI
 ```
 
 ## Use Cases
 
-DeepCore's unique architecture enables it to support a variety of applications specifically tailored for the Web3 ecosystem:
+Nuvex AI's unique architecture enables it to support a variety of applications specifically tailored for the Web3 ecosystem:
 
 ### AI-Powered Web3 Analytics
 
-DeepCore agents can analyze on-chain data to provide real-time insights and predictions for various blockchain metrics:
+Nuvex AI agents can analyze on-chain data to provide real-time insights and predictions for various blockchain metrics:
 
 - **Market Analysis**: Track token movements across exchanges and predict price movements
 - **Protocol Health Monitoring**: Analyze protocol metrics and user activity to assess health and growth
@@ -521,7 +521,7 @@ DeepCore agents can analyze on-chain data to provide real-time insights and pred
 
 ### Decentralized Finance Agents
 
-DeepCore excels at creating agents that can interact with DeFi protocols:
+Nuvex AI excels at creating agents that can interact with DeFi protocols:
 
 - **Portfolio Management**: Automatically rebalance portfolios based on market conditions
 - **Yield Optimization**: Find the highest yield opportunities across protocols
@@ -529,7 +529,7 @@ DeepCore excels at creating agents that can interact with DeFi protocols:
 
 ### NFT Market Intelligence
 
-DeepCore agents can monitor and analyze the NFT market:
+Nuvex AI agents can monitor and analyze the NFT market:
 
 - **Collection Valuation**: Track floor prices, sales volume, and rarity distributions
 - **Trend Prediction**: Identify emerging collections and creators
@@ -537,7 +537,7 @@ DeepCore agents can monitor and analyze the NFT market:
 
 ### Cross-Chain Automation
 
-DeepCore's protocol layer enables seamless interaction with multiple blockchains:
+Nuvex AI's protocol layer enables seamless interaction with multiple blockchains:
 
 - **Cross-Chain Arbitrage**: Identify and execute price differences across chains
 - **Liquidity Management**: Optimize liquidity provision across multiple DEXs
@@ -571,7 +571,7 @@ agent_config = {
 import requests
 
 response = requests.post(
-    "https://your-deepcore-instance.com/api/agent/create",
+    "https://your-Nuvex AI-instance.com/api/agent/create",
     json=agent_config,
     headers={"Authorization": f"Bearer {your_token}"}
 )
@@ -585,7 +585,7 @@ print(f"Created agent ID: {agent_id}")
 ```python
 # Create session
 session_response = requests.post(
-    f"https://your-deepcore-instance.com/api/agent/{agent_id}/sessions",
+    f"https://your-Nuvex AI-instance.com/api/agent/{agent_id}/sessions",
     json={"context": "portfolio_management"},
     headers={"Authorization": f"Bearer {your_token}"}
 )
@@ -594,7 +594,7 @@ session_id = session_response.json()["session_id"]
 
 # Send instruction
 message_response = requests.post(
-    f"https://your-deepcore-instance.com/api/agent/{agent_id}/sessions/{session_id}/messages",
+    f"https://your-Nuvex AI-instance.com/api/agent/{agent_id}/sessions/{session_id}/messages",
     json={"content": "Analyze my ETH address 0x123... assets on Uniswap and Aave, and provide optimization suggestions"},
     headers={"Authorization": f"Bearer {your_token}"}
 )
@@ -603,7 +603,7 @@ message_response = requests.post(
 import json
 import sseclient
 
-url = f"https://your-deepcore-instance.com/api/agent/{agent_id}/sessions/{session_id}/stream"
+url = f"https://your-Nuvex AI-instance.com/api/agent/{agent_id}/sessions/{session_id}/stream"
 headers = {"Authorization": f"Bearer {your_token}"}
 client = sseclient.SSEClient(url, headers=headers)
 
@@ -620,7 +620,7 @@ for event in client.events():
 
 ### Creating Custom Tools
 
-To create custom tools for DeepCore, you can use the following methods:
+To create custom tools for Nuvex AI, you can use the following methods:
 
 1. **Register Tools via OpenAPI Specification**
 
@@ -657,7 +657,7 @@ paths:
 """
 
 response = requests.post(
-    "https://your-deepcore-instance.com/api/tool/register",
+    "https://your-Nuvex AI-instance.com/api/tool/register",
     json={
         "name": "token_price_tool",
         "description": "Get the latest prices for various tokens",
@@ -718,23 +718,23 @@ Based on your usage scale, the following are recommended resource configurations
 
 For high-load scenarios, we recommend the following scaling strategies:
 
-1. **Horizontal Scaling** - Deploy multiple DeepCore instances using a load balancer to distribute requests
+1. **Horizontal Scaling** - Deploy multiple Nuvex AI instances using a load balancer to distribute requests
 2. **Agent Pool** - Pre-create agent instance pools to reduce cold start time
 3. **Model Caching** - Enable response caching for commonly used models
 4. **Distributed Tool Execution** - Use a dedicated tool execution cluster
 
 ### Monitoring
 
-DeepCore provides built-in monitoring capabilities that can be integrated with Prometheus:
+Nuvex AI provides built-in monitoring capabilities that can be integrated with Prometheus:
 
 ```bash
 # Prometheus configuration example
 scrape_configs:
-  - job_name: 'deepcore'
+  - job_name: 'Nuvex AI'
     scrape_interval: 15s
     metrics_path: '/metrics'
     static_configs:
-      - targets: ['deepcore:8000']
+      - targets: ['Nuvex AI:8000']
 ```
 
 Key monitoring metrics include:
@@ -748,7 +748,7 @@ Key monitoring metrics include:
 
 ## Future Plans
 
-In future development, DeepCore plans to:
+In future development, Nuvex AI plans to:
 
 1. **Expand Model Support** - Integrate more local and cloud-based AI models, providing a wider range of choices
 2. **Enhance Decentralization Capabilities** - Explore decentralized agent execution, enabling agents to run in decentralized environments
@@ -758,11 +758,11 @@ In future development, DeepCore plans to:
 
 ## Vision
 
-DeepCore's vision is to become the industry standard platform for Web3 intelligent agents, achieving seamless integration of artificial intelligence and blockchain technology. We believe that by providing powerful, flexible, and user-friendly tools, we can greatly accelerate Web3 innovation, enabling developers to build smarter and more efficient decentralized applications.
+Nuvex AI's vision is to become the industry standard platform for Web3 intelligent agents, achieving seamless integration of artificial intelligence and blockchain technology. We believe that by providing powerful, flexible, and user-friendly tools, we can greatly accelerate Web3 innovation, enabling developers to build smarter and more efficient decentralized applications.
 
-As AI technology and the blockchain ecosystem continue to evolve, DeepCore will continue to evolve, providing cutting-edge solutions that enable developers to build intelligent agents that not only understand blockchain data but can also make intelligent decisions and automatically execute complex operations, bringing greater value to end users.
+As AI technology and the blockchain ecosystem continue to evolve, Nuvex AI will continue to evolve, providing cutting-edge solutions that enable developers to build intelligent agents that not only understand blockchain data but can also make intelligent decisions and automatically execute complex operations, bringing greater value to end users.
 
 ## Contributions
 
-We welcome community contributions! If you're interested in participating in DeepCore's development, please check our contribution guidelines.
+We welcome community contributions! If you're interested in participating in Nuvex AI's development, please check our contribution guidelines.
 
