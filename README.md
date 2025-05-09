@@ -1,7 +1,7 @@
 # Nuvex AI - Web3 Intelligent Agent Platform
 
 <p align="center">
-  <img src="https://github.com/NuvexAI/Nuvex/tree/main/docs/logo.png" alt="Nuvex AI Logo" width="200"/>
+  <img src="main/docs/logo.png" alt="Nuvex AI Logo" width="200"/>
 </p>
 
 <p align="center">
