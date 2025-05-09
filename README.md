@@ -58,7 +58,7 @@ The top layer provides a marketplace of specialized agents for different purpose
 - **Analysis Agent** - For data analytics and insights generation
 - **Trade Agent** - For executing trading strategies on various platforms
 - **Media Agent** - For content creation and media interaction
-- **DeepResearch Agent** - For in-depth research and knowledge discovery
+- **NuvexResearch Agent** - For in-depth research and knowledge discovery
 - **Additional specialized agents** - Extensible for various domain-specific tasks
 
 ### 2. Nuvex AI Agent Protocol Layer
